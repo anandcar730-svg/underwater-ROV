@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# Arduino IDE / PlatformIO build output
+build/
+.pio/
+.vscode/
+*.elf
+*.hex
+*.bin
+
+# Captured images and video from test runs
+captures/
+*.mp4
+*.h264
+
+# KiCad / EasyEDA backups
+*.bak
+*-backups/
+*.kicad_prl
+
+# Editor and OS files
+.idea/
+*.swp
+.DS_Store
+Thumbs.db
